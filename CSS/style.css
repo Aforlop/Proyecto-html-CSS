@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mifuentepersonalizada';
+    src: url(../fuentes_de_texto/fontovision-webfont.woff) format('woff')
+}
+
+body {
+    font-family: 'Mifuentepersonalizada', sans-serif;
+}
